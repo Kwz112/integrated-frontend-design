@@ -1,0 +1,7 @@
+interface:
+  display_name: "Integrated Frontend Design"
+  short_description: "Combine design brief, visual direction, and browser delivery"
+  default_prompt: "Use $integrated-frontend-design to plan, build, or review this browser UI."
+
+policy:
+  allow_implicit_invocation: true
